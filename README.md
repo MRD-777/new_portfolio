@@ -39,7 +39,7 @@ My focus areas:
 
 ## 🌍 Live Demo
 
-👉 [View Portfolio Online](https://deagon-eg-1.github.io/new_portfolio/)
+👉 [View Portfolio Online](https://mrd-777.github.io/new_portfolio/)
 
 ---
 
